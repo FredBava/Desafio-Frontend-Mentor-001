@@ -1,5 +1,5 @@
 body {
-    background-image: url(../images/bg-desktop.svg);
+    background-image: url(./images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--violet);
@@ -23,7 +23,7 @@ body {
     width: 300px;
     display: flex;
     justify-content: space-between;
-    background-image: url(../images/logo.svg);
+    background-image: url(.../images/logo.svg);
     background-repeat: no-repeat;
     background-size: auto;
 }
